@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shakiba</h1>
-<h3 align="center">A passionate about Image Processing & Data Scientist from Iran</h3>
+<h3 align="center">A passionate about Image Processing & Data Scieence from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shshojaei&label=Profile%20views&color=0e75b6&style=flat" alt="shshojaei" /> </p>
 
